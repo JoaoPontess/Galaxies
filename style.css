@@ -6,14 +6,34 @@
 
 body {
     background: #121214;
+    display: grid;
+    justify-content: center;
 
     padding: 72px 104px;
 }
 
+header h1 {
+    font-weight: 900;
+    font-size: 58px;
+    line-height: 73px;
+
+    color: #02799D;
+}
+
+header p {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #E1E1E6;
+}
+
+
 main {
+    margin-top: 62px;
+
     display: grid;
     grid-template-columns: repeat(3, 370px);
-    place-content: center;
 
     gap: 48px 60px;
 }
