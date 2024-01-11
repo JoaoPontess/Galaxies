@@ -1,11 +1,8 @@
-
-# Título 
-
-<h1 align="center"> AdPage </h1>
+<h1 align="center"> Blog </h1>
 
 
-![Screenshot_1](https://github.com/jhzinm/Galaxies/assets/150977621/91cb6e18-748d-4bdd-88d9-a9952b098610)
 
+![Screenshot_1](https://github.com/jhzinm/Galaxies/assets/150977621/09a2fade-ec3a-4944-942d-0318cf7a3538)
 
 
 📌 Descrição do Projeto:
