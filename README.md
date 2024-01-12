@@ -1,4 +1,4 @@
-<h1 align="center"> Blog </h1>
+<h1 align="center"> BlogImages </h1>
 
 
 
@@ -6,7 +6,7 @@
 
 
 📌 Descrição do Projeto:
-O Blog é uma plataforma simples e personalizável para e compartilhar dados de serviço e pessoal em um único local.
+O BlogImages é uma plataforma simples e personalizável para e compartilhar fotos de serviço e pessoal em um único local.
 
 📌 Funcionalidades e Demonstração da Aplicação:
 
